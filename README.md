@@ -1,7 +1,9 @@
 <div align="center">
 This project is a work in progress and not yet stable.
+
 # Elastic community integrations
-**Creating integrations so you don't have to**
+
+<em>Creating integrations so you don't have to</em>
 </div>
 
 # Introduction
